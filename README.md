@@ -1,4 +1,6 @@
 # OCR_Document_Reader
+In this repository, we will be building a Document Reader that makes use of pytesseract to do OCR.
+
 We start off with pip installing the required dependencies:
 
 ```
