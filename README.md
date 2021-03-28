@@ -24,5 +24,6 @@ text = pytesseract.image_to_string(Image.open(filename),lang='jpn')
 ```
 
 Example output:
+Sample image file on the left, ocr.py output on the right
 ![](example.jpg)
 
