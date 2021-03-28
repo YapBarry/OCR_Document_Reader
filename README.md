@@ -23,4 +23,6 @@ In the below case, my language was set to 'jpn' for japanese.
 text = pytesseract.image_to_string(Image.open(filename),lang='jpn')
 ```
 
+Example output:
+![](example.jpg)
 
